@@ -1,5 +1,5 @@
 ﻿[
 	{"Department":"DIRECTION","ExternalPhoneNumber":"04.68.00.00.00","FirstName":"Jean-Pierre","InternalPhoneNumber":"001","Job":"Président","LastName":"DUPOND"},
 	{"Department":"B.E","ExternalPhoneNumber":"04.68.00.00.00","FirstName":"Jeanne","InternalPhoneNumber":"002","Job":"Développeur","LastName":"MOREL"},
-	{"Department":"COMPTABILITE","ExternalPhoneNumber":"04.68.00.00.00","FirstName":"Pierre","InternalPhoneNumber":"003","Job":"Comptable","LastName":"DURANT"},
+	{"Department":"COMPTABILITE","ExternalPhoneNumber":"04.68.00.00.00","FirstName":"Pierre","InternalPhoneNumber":"003","Job":"Comptable","LastName":"DURANT"}
 ]
