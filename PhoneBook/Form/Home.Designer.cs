@@ -117,7 +117,9 @@
             this.lstView_Results.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
+            this.lstView_Results.FullRowSelect = true;
             this.lstView_Results.Location = new System.Drawing.Point(12, 97);
+            this.lstView_Results.MultiSelect = false;
             this.lstView_Results.Name = "lstView_Results";
             this.lstView_Results.Size = new System.Drawing.Size(670, 299);
             this.lstView_Results.TabIndex = 3;
